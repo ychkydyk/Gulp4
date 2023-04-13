@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VitaliyJC/TestMarket.git"
+    "url": "git+https://github.com/ychkydyk/Gulp4.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VitaliyJC/TestMarket/issues"
+    "url": "https://github.com/ychkydyk/Gulp4/issues"
   },
-  "homepage": "https://github.com/VitaliyJC/TestMarket#readme",
+  "homepage": "https://github.com/ychkydyk/Gulp4/blob/main/README.md",
   "devDependencies": {
     "browser-sync": "^2.29.1",
     "gulp": "^4.0.2",

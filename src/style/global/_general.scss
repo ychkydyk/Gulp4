@@ -1,0 +1,29 @@
+html, 
+body {
+   height: 100%;
+  box-sizing: border-box;
+}
+
+.container {
+   max-width: 1400px;
+   margin: 0 auto;
+}
+
+.wrapper{
+   min-height: 100%;
+   display: flex;
+   flex-direction: column;
+}
+
+@media (max-width: 1000px) {
+    .container {
+       max-width: 96%;
+    }
+ }
+ 
+ @media (max-width: 375px) {
+    .container {
+       max-width: 92%;
+    }
+ }
+ 
